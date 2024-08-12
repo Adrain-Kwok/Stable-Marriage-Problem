@@ -1,3 +1,3 @@
 # Stable-Marriage-Problem
 
-HI
+Hi everyone! This a project about SMP.
